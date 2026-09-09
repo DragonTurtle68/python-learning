@@ -1,0 +1,11 @@
+print(7//2)
+print(7%2)
+print(2**10)
+print(37>30)
+print(37 == "37")
+print(True and False)
+print(True or False)
+s = "anesthesia"
+print(len(s))
+print(s[0])
+print(s.upper())
